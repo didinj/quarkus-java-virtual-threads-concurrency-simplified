@@ -1,6 +1,6 @@
 # Using Virtual Threads in Quarkus: Concurrency Simplified
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/6901c616ae60ff5276ef1695/using-virtual-threads-in-quarkus-concurrency-simplified).
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
